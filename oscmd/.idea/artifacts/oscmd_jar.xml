@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="oscmd:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/oscmd_jar</output-path>
+    <root id="archive" name="oscmd.jar">
+      <element id="module-output" name="oscmd" />
+    </root>
+  </artifact>
+</component>
